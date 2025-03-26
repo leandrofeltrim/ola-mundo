@@ -31,3 +31,5 @@ Num | Nome | Nota
 ---|---|---
 1 | Leandro| 10,0
 2 | Maria Julia | 11,0
+
+Teste de comando no markdown `document.getElementById()` do javascript
