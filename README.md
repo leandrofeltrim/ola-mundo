@@ -22,6 +22,6 @@ Lista demarcada:
   * Teste
 
 Lista de Tarefas:
-- [ ]Criar pagina
-- [ ]Conversar com cliente
-- [ ]Pagamento
+- [x]Criar pagina
+- []Conversar com cliente
+- []Pagamento
