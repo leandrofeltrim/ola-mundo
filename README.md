@@ -25,3 +25,9 @@ Lista de Tarefas:
 - [x]Criar pagina
 - []Conversar com cliente
 - []Pagamento
+
+
+Num | Nome | Nota
+---|---|---
+1 | Leandro| 10,0
+2 | Maria Julia | 11,0
